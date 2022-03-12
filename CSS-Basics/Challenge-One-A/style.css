@@ -1,0 +1,37 @@
+body {
+	background-color: #eab676;
+	font-family: sans-serif;
+	font-style: italic;
+	text-align: center;
+	margin: 200px;
+
+}
+
+#wrap {
+	background-color: #eeeee4 ;
+	border: 10px dotted;	
+
+}
+
+h1 {
+	border-style: hidden hidden dotted hidden ;	
+	border-width: 10px;
+	font-size: 3rem;
+	font-family: fantasy;
+
+}
+
+ul {
+	list-style-type: none;
+
+}
+
+li::first-letter {
+	font-size: 2em;
+}
+
+p {
+	text-align: left;
+	font-style: normal;
+	margin: 20px;
+}

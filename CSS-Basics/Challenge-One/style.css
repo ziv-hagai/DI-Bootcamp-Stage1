@@ -1,0 +1,21 @@
+body {
+	background-color: #58ccfc;
+	font-family: arial;
+	width: 400;
+	
+}
+
+h1 {
+	background-color: #58ccfc;
+	font-family: "times new roman";
+	
+}
+ul {
+	text-align : center;
+	list-style-type: none;
+
+}
+li::first-letter {
+	font-size: 2em;
+}
+

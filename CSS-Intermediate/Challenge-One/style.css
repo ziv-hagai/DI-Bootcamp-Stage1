@@ -1,0 +1,41 @@
+body {
+	background-color: #364371;
+	font-family: arial;
+  	box-sizing: border-box;
+  	margin: 0 100px 100px 100px;
+  	padding: 0;
+}
+
+#wrap:after {
+  	content: "";
+  	display: table;
+  	clear: both;
+	margin: 1em 5%;
+}
+
+#content {
+	background-color: #5B7FBD;
+	float: left;
+	text-align: center;
+	width: 60%;
+	padding: auto;
+}
+
+#content ul {
+	list-style-type: none;
+}
+
+#nav {
+	background-color: #B0CFFF;
+	float: left;
+	padding: 20px;
+	height: 100%;
+
+}
+
+.copyright {
+	background-color: #364371;
+	margin: 0;
+	padding: 10px;
+}
+
