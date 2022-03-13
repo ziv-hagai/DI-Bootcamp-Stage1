@@ -9,7 +9,7 @@ body {
 }
 * {
   margin: 0;
-    padding: 0;  
+  padding: 0;  
 }
 #up {
     background-color: darkblue;
@@ -56,7 +56,7 @@ button {
 
 button {
     transition: all .3s ease-in-out; 
-    }
+}
 
 button:hover { 
     transform: scale(1.1); 
